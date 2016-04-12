@@ -1,5 +1,5 @@
 # PHP MusicPlayer - By Jason Giancono
-PHP MusicPlayer is exactly what it sounds like. A music player - written in PHP! See it in action [here](http://jasongi.com/trash/musicplayer).
+PHP MusicPlayer is exactly what it sounds like. A music player - written in PHP! See it in action [here](http://jasongi.com/trash/musicplayer). (note: I got really old public domain music for the demo which doesn't have any artist data, hence why it doesn't show!)
 
 ## Requirements
 You need to have a web server with PHP installed. On the client side, you need a web broswer that is HTML5 compatible so it can read the <audio> tags.
